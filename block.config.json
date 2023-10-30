@@ -1,0 +1,21 @@
+{
+  "name": "30Oct",
+  "type": "package",
+  "blockId": "84dXRqU2Tlg8xhdG6dql3",
+  "source": {
+    "https": "https://github.com/grgshiji/30Oct.git",
+    "ssh": "git@github.com:grgshiji/30Oct.git",
+    "branch": "block_30Oct"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "30Oct_B1": {
+      "directory": "30Oct_B1"
+    }
+  }
+}
